@@ -1,0 +1,2 @@
+CATALOGUE_HOST: catalogue.backend-{{ env }}.daws84s.site
+REDIS_HOST: redis-{{ env }}.daws84s.site

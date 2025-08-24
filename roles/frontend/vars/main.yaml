@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.backend-{{ env }}.daws84s.site
+USER_HOST: user.backend-{{ env }}.daws84s.site
+CART_HOST: cart.backend-{{ env }}.daws84s.site
+SHIPPING_HOST: shipping.backend-{{ env }}.daws84s.site
+PAYMENT_HOST: payment.backend-{{ env }}.daws84s.site
