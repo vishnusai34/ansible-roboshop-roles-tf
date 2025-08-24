@@ -1,1 +1,1 @@
-MONGODB_HOST: "mongodb-{{ env }}.daws84s.site"
+MONGODB_HOST: "mongodb-{{ env }}.vaws84s.site"
